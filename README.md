@@ -54,7 +54,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter SimpleTest](https://github.com/ericbarnes/codeigniter-simpletest) - The CodeIgniter core is now being converted to using PHPUnit.
 * [CodeIgniter](https://github.com/rougin/codeigniter) - Installs CodeIgniter core through Composer.
 
-
 ## Hooks
 * [CodeIgniter-SSLHook](https://github.com/mehdibo/Codeigniter-SSLHook) - Appropriate headers and redirection for SSL websites .
 
@@ -62,6 +61,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * Assets
   * [CodeIgniter Minify](https://github.com/ericbarnes/ci-minify) - Minify css and js files in CodeIgniter.
   * [CodeIgniter - minify](https://github.com/slav123/CodeIgniter-minify) - Minify library CSS and JavaScript compression on the fly.
+  * [Assets Generator](https://github.com/mjamilasfihani/codeigniter-4-assets-generator) - Library for CI 4 for generating HTML template.
+  * [CI4 Frontend](https://github.com/mjamilasfihani/codeigniter-4-frontend) - CI 4 template engine (BladeOne) and theming (Tatter\Assets).
+  
 * API's
   * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
   * [CodeIgniter-Postmark](https://github.com/zackkitzmiller/postmark-codeigniter) - A Postmark (postmarkapp.com) library for CodeIgniter.
